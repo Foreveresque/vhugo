@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/SenchanTorpeist/vhugo.git
+  repo: SenchanTorpeist/vhugo
   branch: master # Branch to update
 
 publish_mode: editorial_workflow
