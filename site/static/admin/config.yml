@@ -3,6 +3,9 @@ backend:
   repo: SenchanTorpeist/vhugo
   branch: master # Branch to update
 
+ permalinks:
+    post: /:month/:year/:title/
+  
 publish_mode: editorial_workflow
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
