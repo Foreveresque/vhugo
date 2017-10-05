@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://importer-wolf-30713.netlify.com/"
 languageCode = "en-us"
 languageLang = "en"
 title = "My new Victor-Hugo site"
